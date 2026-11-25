@@ -1,0 +1,14 @@
+[
+  {
+    "storeId": 1,
+    "managerStaffId": 1,
+    "addressId": 1,
+    "lastUpdate": "2006-02-15 04:57:12.0"
+  },
+  {
+    "storeId": 2,
+    "managerStaffId": 2,
+    "addressId": 2,
+    "lastUpdate": "2006-02-15 04:57:12.0"
+  }
+]
